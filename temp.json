@@ -1,0 +1,82 @@
+[
+  {
+    "category": "Entertainment: Board Games",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "Snakes and Ladders was originally created in India?",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "The music group Daft Punk got their name from a negative review they recieved.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "boolean",
+    "difficulty": "hard",
+    "question": "&quot;Cube&quot;, &quot;Cube 2: Hypercube&quot; and &quot;Cube Zero&quot; were directed by the same person.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "The names of Tom Nook&#039;s cousins in the Animal Crossing franchise are named &quot;Timmy&quot; and &quot;Jimmy&quot;.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "Mythology",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "According to Greek Mythology, Atlas was an Olympian God.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "In &quot;Undertale&quot;, the main character of the game is Sans.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "Entertainment: Japanese Anime & Manga",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "Kiznaiver is an adaptation of a manga.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "&quot;Santa Claus&quot; is a variety of melon.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "category": "Celebrities",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "Tupac Shakur died due to complications from being stabbed in 1996.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "Celiac Disease is a disease that effects the heart, causing those effected to be unable to eat meat.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  }
+]
