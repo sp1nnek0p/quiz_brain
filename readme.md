@@ -2,8 +2,15 @@
 
 #### Demonstarting Some Simple OOP
 
-While I know that there is not ideal it is just meant to demonstate some
-object orientated porgramming in action.
+Gets data from the Open Trivia Database API and creates a multiple choice quiz. 
+The user must then choose between the 1 to 4 possible answers,
+if the user answers correctly the score is incremented by 1 out of the total number of questions.
+
+If the user answers incorrectly a message along with the correct answer is displayed.
+
+When the user finishes all the questions the total score out of total number of questions is displayed.
+
+This was just meant to demonstate some object orientated porgramming in action.
 
 > Question_model.py
 >
