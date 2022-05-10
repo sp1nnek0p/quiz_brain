@@ -15,6 +15,8 @@ While I know that there is not ideal it is just meant to demonstate some object 
 
 This was writen in Python 3.10 so should run fine on your system if you have python 3.10 installed
 
+Simply run main.py
+
 ### Additional modules needed
 
 - Requests Python Library
