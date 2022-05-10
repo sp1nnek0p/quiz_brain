@@ -1,16 +1,33 @@
 # CLI Quiz Game in Python
 
-#### Demonstarting Some Simple OOP
+## Description
 
-Gets data from the Open Trivia Database API and creates a multiple choice quiz. 
-The user must then choose between the 1 to 4 possible answers,
-if the user answers correctly the score is incremented by 1 out of the total number of questions.
+This is a basic quiz game that brings in Data from OpenTriviaDB via the URL API. The game then proceeds to ask you some multiple choice questions, and displays 4 possible answers that you can choose from. You then choose a answer between 1 and 4, if you answer correctly your score will be incremented and you will proceed to the next question.
+If you answer incorectly a message will be displayed along with the correct answer to the question.
 
-If the user answers incorrectly a message along with the correct answer is displayed.
+At the moment the quiz has to brought in manually from the OpenTriviaDB via the data.py file and has to be multiple choice as in below url extract from data.py.
 
-When the user finishes all the questions the total score out of total number of questions is displayed.
+    url = 'https://opentdb.com/api.php?amount=10&category=15&type=multiple'
 
-This was just meant to demonstate some object orientated porgramming in action.
+While I know that there is not ideal it is just meant to demonstate some object orientated porgramming in action.
+
+## How to Use/Run
+
+This was writen in Python 3.10 so should run fine on your system if you have python 3.10 installed
+
+### Additional modules needed
+
+- Requests Python Library
+
+### Screenshots
+
+![Screen Shot](./Screen1.png)
+
+![Screen Shot](./Screen2.png)
+
+### Game Features
+
+### Files Included
 
 > Question_model.py
 >
